@@ -1,8 +1,6 @@
 # Role-Selection
 
-### Group 1
-(OS)
-
+### 1 - OS
 Android
 
 BSD
@@ -15,14 +13,10 @@ MacOS
 
 Windows
 
-### Group 2
-(Hardware)
-
+### 2 - Hardware
 Arduino
 
-### Group 3
-(DevOps)
-
+### 3 - DevOps
 Ansible
 
 Chef
@@ -31,9 +25,7 @@ Docker
 
 Puppet
 
-### Group 4
-(Languages)
-
+### 4 - Languages
 Assembly
 
 C
@@ -70,9 +62,7 @@ Shell
 
 Typescript
 
-### Group 5
-(Engineers)
-
+### 5 - Engineers
 AerospaceEng
 
 ChemicalEng
