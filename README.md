@@ -15,6 +15,7 @@ Windows
 
 ### 2 - Hardware
 Arduino
+SBC
 
 ### 3 - DevOps
 Ansible
