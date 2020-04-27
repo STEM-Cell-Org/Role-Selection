@@ -76,3 +76,22 @@ ElectricalEng
 IndustrialEng
 
 MechanicalEng
+
+### 6 - Science
+Astronomy
+
+Biology
+
+Chemistry
+
+Economics
+
+Geoscience
+
+Physics
+
+Politics
+
+Psychology
+
+Sociology
